@@ -22,5 +22,4 @@
 ![blueoceoan](https://github.com/user-attachments/assets/af3d9486-9218-41b0-a5a2-e99f767188b0)</br>
 ![nexus](https://github.com/user-attachments/assets/4355db80-b07d-42bf-add9-6fbe375d0cb4)</br>
 ![sonar](https://github.com/user-attachments/assets/f7ac1655-bd23-479e-89b8-b5c5ca154f9e)</br>
-![aws](https://github.com/user-attachments/assets/f92c4a36-64e9-40e4-9d4f-fd556975f8ef)</br>
 ![deployment-k8s](https://github.com/user-attachments/assets/bd058952-b40d-42aa-830c-671cbfc4db90)</br>
